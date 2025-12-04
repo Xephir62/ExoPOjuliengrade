@@ -83,6 +83,8 @@ Quelles parties du code sont dupliquées ?<br/>
 Qu’est-ce qui rend le code difficile à maintenir ?<br/>
 
 Quels sont les concepts métier évidents non modélisés ?</li>
+
+
 <li>Étape 3 : Modélisation orientée objet<br/>
 Proposer au minimum les classes suivantes (noms ajustables) :<br/>
 
@@ -101,6 +103,8 @@ Ses attributs (données) <br/>
 Ses méthodes (comportements) <br/>
 
 Ses responsabilités.</li>
+
+
 <li>Étape 4 : Refactorisation<br/>
 
 Reprendre le code existant.<br/>
